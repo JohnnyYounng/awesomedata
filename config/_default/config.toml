@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://johnnyyounng.github.io/awesomedata/"
+baseurl = "https://awesomedata.pages.dev/"
 locale  = "en-us"
 title   = "Hugo Theme Stack Starter"
 
