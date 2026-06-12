@@ -18,7 +18,7 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "📊"
+    # emoji    = "🇨🇳"
     subtitle = "电商、数据与AI的探索笔记"
     avatar   = "img/avatar.png"
 
