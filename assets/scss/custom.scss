@@ -1,3 +1,9 @@
 /*
     You can add your own custom styles here.
 */
+
+/* 隐藏页脚版权和主题信息 */
+.site-footer .copyright,
+.site-footer .powerby {
+    display: none;
+}

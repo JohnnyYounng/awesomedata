@@ -18,8 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = "📊"
+    subtitle = "电商、数据与AI的探索笔记"
     avatar   = "img/avatar.png"
 
 [article]
@@ -28,8 +28,8 @@ SortBy              = "default"
     readingTime   = true
 
     [article.license]
-        enabled = true
-        default = "Licensed under CC BY-NC-SA 4.0"
+        enabled = false
+        default = "CC BY-NC-SA 4.0 许可"
 
 [widgets]
     homepage = [
