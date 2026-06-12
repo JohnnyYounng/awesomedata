@@ -1,9 +1,9 @@
 ---
 title: 友链
 links:
-  - title: JohnnyYounng
-    description: 我的 GitHub 主页，存放项目与代码
-    website: https://github.com/JohnnyYounng
+  - title: GitHub
+    description: GitHub is the world's largest software development platform.
+    website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main:
