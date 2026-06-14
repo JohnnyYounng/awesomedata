@@ -1,5 +1,5 @@
 ---
-title: 2026-06-14 品牌营销案例
+title: 每日品牌营销案例 2026-06-14
 description: 今日精选电商品牌营销优秀案例，包括Kaadas凯迪仕AI智能锁全域数字化营销和京东618赛博联欢会AI数字人内容营销创新案例
 slug: daily-brand-marketing-cases-2026-06-14
 date: 2026-06-14 09:15:00+0800

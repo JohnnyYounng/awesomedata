@@ -1,5 +1,5 @@
 ---
-title: 2026-06-14 AI赋能案例
+title: 每日AI赋能案例 2026-06-14
 description: 今日精选电商AI赋能优秀案例，包括Orthofeet AI客服Agent邮件自动化和Tatcha AI导购个性化推荐提升转化率案例
 slug: daily-ai-empowerment-cases-2026-06-14
 date: 2026-06-14 09:15:00+0800
